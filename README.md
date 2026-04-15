@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ayişə Yusifzadə! 👋
 
-<!--
-**ayisha-yusifzade/ayisha-yusifzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 Who am I?
+- 🐧 **Linux Enthusiast** (Currently using **CachyOS / Arch Linux**).
+- 🔍 Self-studying and exploring the world of **Cybersecurity**.
+- 🚀 Passionate about technology and automation.
 
-Here are some ideas to get you started:
+### 🛠️ What am I currently working on?
+- 🤖 **DocBot:** An autonomous greenhouse robot project.
+- 🌐 **Web Development:** Building and improving my Frontend skills.
+- 🛡️ Learning the fundamentals of network security and system defense.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ What tools do I use?
+- **OS:** CachyOS (Arch Linux), Windows 10.
+- **Learning:** Terminal navigation, Git, and basic networking.
+- **Apps:** WPS Office for documentation and reporting.
