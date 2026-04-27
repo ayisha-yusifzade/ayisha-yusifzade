@@ -1,7 +1,7 @@
 # Hi, I'm Aisha Yusifzade! 
 
 ###  Who am I?
-* **Cybersecurity Researcher & Founder** focusing on autonomous systems and Linux hardening.
+* **Cybersecurity Researcher** focusing on autonomous systems and Linux hardening.
 * **Linux Enthusiast:** Advanced experience with **Arch Linux (CachyOS)**, **Debian**, and **Ubuntu** environments.
 * **Passionate Explorer:** Deep diving into SOC analysis, Red/Blue team strategies, and system automation.
 
