@@ -1,16 +1,19 @@
-# Hi, I'm Ayişə Yusifzadə! 👋
+# Hi, I'm Aisha Yusifzade! 
 
 ###  Who am I?
--  **Linux Enthusiast** (Currently using **CachyOS / Arch Linux**).
--  Self-studying and exploring the world of **Cybersecurity**.
--  Passionate about technology and automation.
+* **Cybersecurity Researcher & Founder** focusing on autonomous systems and Linux hardening.
+* **Linux Enthusiast:** Advanced experience with **Arch Linux (CachyOS)**, **Debian**, and **Ubuntu** environments.
+* **Passionate Explorer:** Deep diving into SOC analysis, Red/Blue team strategies, and system automation.
 
-###  What am I currently working on?
--  **DocBot:** An autonomous greenhouse robot project.
--  **Web Development:** Building and improving my Frontend skills.
--  Learning the fundamentals of network security and system defense.
+###  Current Projects & Focus
+* **DocBot:** Developing an autonomous agricultural robot for greenhouse monitoring using AI and sensor fusion.
+* **Sentinel-Linux-Suite:** Building a modular framework for Linux security auditing and kernel optimization.
+* **Cloud & Network Security:** Mastering the OSI model, IP architecture, and Zero-Trust infrastructure.
 
-###  What tools do I use?
-- **OS:** CachyOS (Arch Linux), Windows 10.
-- **Learning:** Terminal navigation, Git, and basic networking.
-- **Apps:** WPS Office for documentation and reporting.
+###  Tech Stack & Tools
+* **Operating Systems:** CachyOS (Arch), Debian, Ubuntu Server, Kali Linux.
+* **Cybersecurity:** SOC operations, Network Defense, Bash Automation.
+* **Infrastructure:** Docker, Nginx, UFW hardening, and Cloud models (IaaS/PaaS).
+* **Hardware:** Lenovo Legion optimization and robotics integration.
+
+---
